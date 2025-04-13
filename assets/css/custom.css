@@ -1,0 +1,6 @@
+.centered-content {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: left;
+    padding: 2rem;
+}

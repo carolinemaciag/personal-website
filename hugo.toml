@@ -1,0 +1,30 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Caroline Maciag'
+theme = "mainroad"
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  description = "Welcome to my portfolio site"
+  logoTitle = "Caroline Maciag"
+  author = "Caroline Maciag"
+
+[menu]
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 2
+
+[[menu.main]]
+  name = "Resume"
+  url = "/resume/"
+  weight = 3
+

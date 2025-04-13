@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to My Personal Website on Caroline Maciag</title>
+    <link>http://localhost:51105/</link>
+    <description>Recent content in Welcome to My Personal Website on Caroline Maciag</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:51105/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Caroline Maciag</title>
+      <link>http://localhost:51105/about/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:51105/about/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:51105/images/headshot.jpg&#34; width=&#34;100&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Caroline is currently pursuing her M.S. in Data Science at Northwestern University, with a projected graduation of December 2025. She has always been fascinated by the way numbers tell stories — whether that’s through identifying business trends, predicting outcomes, or crafting impactful visualizations.&lt;/p&gt;&#xA;&lt;p&gt;Before the graduate program, she earned her B.S. in  NeuroScience from the University of Illinois at Chicago, where she originally intended to pursue medical school. During her gap year after completing her Bachelor&amp;rsquo;s degree, she worked and volunteered in a handful of healthcare settings, where she realized that the medical field is not her true passion.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:51105/resume/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:51105/resume/</guid>
+      <description>&lt;h2 id=&#34;caroline-maciags-resume&#34;&gt;Caroline Maciag&amp;rsquo;s Resume&lt;/h2&gt;&#xA;&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Master of Science (M.S.) in Data Science&lt;/strong&gt;, Northwestern University&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2024 - 2025 (expected graduation)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Bachelor of Science (B.S.) in Computer Science&lt;/strong&gt;, University of Illinois at Chicago&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2017 - 2021&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;skills&#34;&gt;Skills&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Programming Languages&lt;/strong&gt;: Python, R, SQL (postgres)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Data Science&lt;/strong&gt;: Statistical Analysis, Machine Learning, Data Visualization&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tools&lt;/strong&gt;: Jupyter, Git, Excel&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Soft Skills&lt;/strong&gt;: Problem Solving, Critical Thinking, Communication and Collaboration&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;experience&#34;&gt;Experience&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data Analyst - Sales&lt;/strong&gt;, Hartland Home Medical Supply, Naperville IL&lt;br&gt;&#xA;&lt;em&gt;August 2024 - Present&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
